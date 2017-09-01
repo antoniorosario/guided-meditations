@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <dimen name="font_medium">18sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+</resources>
